@@ -1,7 +1,5 @@
 # AdvanceProgrammingAtJava-OpenU
 2023a
-# C-Project-OpenU
-
 ### Description
 Advance programming at Java , realization of object oriented programming
 
